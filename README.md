@@ -1,8 +1,4 @@
 # Efficient-and-Privacy-Preserving-Lane-Change-Scheme-for-Variable-Speed-Driving-Scenario
-支撑论文Efficient and Privacy-Preserving Lane Change Decision-Making Scheme for Variable Speed Driving Scenario的实验以及部分使用的MPC组件
-
-
-
 本项目是论文《[Efficient and Privacy-Preserving Lane Change Decision-Making Scheme for Variable Speed Driving Scenario]》的实验代码，以及部分使用的MPC组件。  
 This project is the experimental code of the paper "[Efficient and Privacy-Preserving Lane Change Decision-Making Scheme for Variable Speed Driving Scenario]", and some MPC tools.
 
